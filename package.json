@@ -1,0 +1,20 @@
+{
+  "name": "UnitConversionGame",
+  "version": "1.0.0",
+  "description": "A simple app that prompts to convert from one metric unit to another.",
+  "main": "game.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "",
+  "keywords": [
+    "math",
+    "metric",
+    "game"
+  ],
+  "author": "Marc Khouzam",
+  "license": "EPL-1.0",
+  "devDependencies": {
+    "electron": "^1.4.1"
+  }
+}
