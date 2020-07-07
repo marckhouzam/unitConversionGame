@@ -15,6 +15,6 @@
   "author": "Marc Khouzam",
   "license": "EPL-1.0",
   "devDependencies": {
-    "electron": "^1.4.1"
+    "electron": "^9.1.0"
   }
 }
